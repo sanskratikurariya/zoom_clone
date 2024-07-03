@@ -60,7 +60,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/kunal28-07/Zoom_Clone.git
+git clone https://github.com/sanskratikurariya/zoom_clone.git
 cd zoom-clone
 ```
 
